@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/B.uasset",
+				"C:/Users/Administrator/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GJ/DP9O2O8QEACKXAA1MP7TT3.uasset",
+				"C:/Users/Administrator/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Administrator/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_Target.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/OneDrive/Desktop/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/Administrator/OneDrive/Desktop/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HA/SYWXZYLMEGQMN63H1VZZFT.uasset",
+				"C:/Users/Administrator/OneDrive/Desktop/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D5/ZDQRMYDA279H71KDYBQXBX.uasset",
+				"C:/Users/Administrator/OneDrive/Desktop/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7J/T3TPF2TY4X4WTVQLRH5CXH.uasset",
+				"C:/Users/Administrator/OneDrive/Desktop/MyFirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
